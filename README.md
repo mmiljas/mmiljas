@@ -1,6 +1,6 @@
 <h1>Welcome to my Github</h1>
 
-I'm a health-tech student with strong interest in web-development.
+I'm a health-tech student with interest in web-development and the use of data in promoting welfare.
 Here are almost everything I have worked on previously.
 
 <!---
